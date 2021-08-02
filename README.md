@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/signup-form-with-js-mmI3ybTp1
+- Live Site URL: https://fm-intro-component-with-signup-form-alpha.vercel.app/
 
 ## My process
 
